@@ -43,6 +43,6 @@
   "script": "",
   "style": "",
   "top": 24,
-  "value": "Click on the dropdown then click a name. This will then display the name you chose with an image",
+  "value": "Click on the dropdown then click a name. This will then display the name you chose in the console and display an image",
   "width": 270
 }
